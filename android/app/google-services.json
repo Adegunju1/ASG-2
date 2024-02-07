@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201385712430",
+    "project_id": "prime-bbd4f",
+    "storage_bucket": "prime-bbd4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201385712430:android:521b1f8a123b4b528b38bf",
+        "android_client_info": {
+          "package_name": "com.example.assignment_googlefont"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKpxeTCCDRt6N0gYBuBXzWQ3odr-z7jrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
